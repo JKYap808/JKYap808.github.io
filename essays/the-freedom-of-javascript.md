@@ -10,7 +10,8 @@ labels:
   - Athletic Programming
   - Learning
 ---
-<img class="ui tiny right spaced image" src="../images/900px-JavaScript-logo.png">
+<img src="../images/900px-JavaScript-logo.png" width="400" height="400">
+
 ## JavaScript couldn't be more different then C
 
 ## Seemingly Overhelming
