@@ -20,6 +20,8 @@ labels:
 
 ## Examples
 <img src="../images/badQuestion.png" width="600" height="450">
+
+
 In this <a href="https://stackoverflow.com/questions/31916639/want-to-fetch-data-from-mysql-database-and-show-the-data-in-html-table">example</a>, the worst offense is he or she didn't demonstrate effort or knowledge.  In fact, this person most likley didn't even try to answer their own question as the first response shows that there are many duplicate questions already answered.  Clarity was also a problem with the messy code block and too much whitespace.
 
 
