@@ -14,13 +14,13 @@ summary: Implementing and analyzing the perceptron learning algorithm
 ---
 
 
-<img class="ui image" src="../images/binaryclassification.png" width="400" height="400">
+<img class="ui image" src="../images/binaryclassification.png" width="500" height="400">
 
 ##Overview
 
 In machine learning, one of the simplest problems is binary classification of linerally seperable data, and the perceptron learning algorithm is the simplest method to solve this problem.  Using the properties of the dot product of two vectors, a descision boundry can be created where the sign of the dot product of an input vector and a weight vector classifies the data.
 
-<img src="../images/percept_percla.gif" width="400" height="400">
+<img src="../images/percept_percla.gif" width="500" height="400">
 
 The picture above shows how the perceptron algorithm works for a two-dimensional input vector.  The dimensions of the input vector correlate to different properties that can be used to classify the objects like size, color, location, distance, etc.  The perceptron is trained with training data that lists has the properties and a label that classfies the input.  Using this training data, the perceptron adjusts the weight vector until it properly classifies the training data.  The trained perceptron can then be used to classify unlabeled data.
 
