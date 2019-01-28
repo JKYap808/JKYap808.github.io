@@ -106,13 +106,13 @@
       "highlights": [
         "Deploying new networks, virtual servers, & server upgrades",
         "Writing scripts to increase productivity",
-        "Troubleshooting network problems",
+        "Troubleshooting network problems"
       ]
     },
     {
       "company": "Tom, Quitiquit, Chee, & Watts",
       "position": "Assistant Bookeeper",
-      "website": "http://tqlawyers.com"
+      "website": "http://tqlawyers.com",
       "startDate": "2013-07-27",
       "endDate": "2015-12-15",
       "summary": "In addition to assisting with daily and monthly accounting tasks, I helped with various in house IT tasks.",
@@ -126,13 +126,13 @@
     {
       "organization": "American Cancer Society",
       "position": "Data Entry",
-      "summary": "Helped maintain database",
+      "summary": "Helped maintain database"
     },
     {
       "organization": "Kapiolani Hospital",
       "website": "http://manoa.hawaii.edu/reis",
       "position": "Student Assistant",
-      "summary": "Aided nurses in emergency room",
+      "summary": "Aided nurses in emergency room"
     }
   ],
   "awards": [
