@@ -78,7 +78,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "Spring 2018",
+      "startDate": "2018 Spring",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -88,8 +88,8 @@
       "institution": "Honolulu Community College",
       "area": "Computer, Electronics, & Network Technologies",
       "studyType": "A.S.",
-      "startDate": "Fall 2013",
-      "endDate": "Fall 2016",
+      "startDate": "2013 Fall",
+      "endDate": "2016 Fall",
       "gpa": "",
       "courses": [
       ]
@@ -100,8 +100,8 @@
       "company": "Outrigger Hotels & Resorts",
       "position": "IT Technician",
       "website": "outrigger.com",
-      "startDate": "June 2016",
-      "endDate": "September 2018",
+      "startDate": "2016 June",
+      "endDate": "2018 September",
       "summary": "Troubleshooting computer software, hardware, & network problems",
       "highlights": [
         "Deploying new networks, virtual servers, & server upgrades",
