@@ -5,7 +5,7 @@ image: images/cisco.png
 title: Network Upgrade
 permalink: projects/network-upgrade
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-06-15
 labels:
   - Networking
   - Security
