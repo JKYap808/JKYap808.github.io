@@ -1,10 +1,9 @@
-
 ---
 layout: project
 type: project
 image: images/drupallogo.png
 title: Drupal Website
-permalink: projects/perceptron
+permalink: projects/drupal-website
 # All dates must be YYYY-MM-DD format!
 date: 2015-01-20
 labels:
