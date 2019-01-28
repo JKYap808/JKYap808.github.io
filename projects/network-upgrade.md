@@ -5,13 +5,12 @@ image: images/cisco.png
 title: Network Upgrade
 permalink: projects/network-upgrade
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-6-14
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Networking
+  - PCI
+  - Security
+summary: Building a PCI compliant network
 ---
 
 <img class="ui image" src="../images/ratnest.jpg" width="600" height="300">
