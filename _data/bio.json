@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "johnyap",
         "url": "https://www.linkedin.com/in/jkyap808"
-      },
+      }
     ]
   },
   "interests": [
@@ -59,7 +59,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
+        "Javascript"
       ]
     },
     {
@@ -69,7 +69,7 @@
         "Windows",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
+        "g++"
       ]
     }
   ],
@@ -83,7 +83,7 @@
       "gpa": "",
       "courses": [
       ]
-    }
+    },
     {
       "institution": "Honolulu Community College",
       "area": "Computer, Electronics, & Network Technologies",
