@@ -12,7 +12,7 @@ labels:
 summary: My first drupal webpage.
 ---
 
-<img class="ui image" src="../images/cms.png" width="400" height="400">
+<img class="ui image" src="../images/cms.png" width="500" height="400">
 
 ## Overview
 
