@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/perceptron.png
+image: images/perceptron.PNG
 title: Perceptron
 permalink: projects/perceptron
 # All dates must be YYYY-MM-DD format!
