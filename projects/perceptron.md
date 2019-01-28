@@ -5,7 +5,7 @@ image: images/perceptron.png
 title: Perceptron
 permalink: projects/perceptron
 # All dates must be YYYY-MM-DD format!
-date: 2019-27-01
+date: 2018-14-12
 labels:
   - Machine Learning  
   - Mathmatics
