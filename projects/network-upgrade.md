@@ -7,7 +7,9 @@ permalink: projects/network-upgrade
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Javascript
+  - Networking
+  - Security
+  - PCI
 summary: Building a PCI compliant network
 ---
 
