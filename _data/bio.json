@@ -23,20 +23,25 @@
       {
         "network": "linkedin",
         "username": "johnyap",
-        "url": "www.linkedin.com/in/jkyap808"
+        "url": "https://www.linkedin.com/in/jkyap808"
       },
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "machine learning",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Perceptron",
+        "Q-learning"
       ]
     },
     {
-      "name": "data mining",
+      "name": "mathmatics",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "physics",
       "keywords": [
       ]
     },
@@ -55,29 +60,36 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "Spring 2018",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "Honolulu Community College",
+      "area": "Computer, Electronics, & Network Technologies",
+      "studyType": "A.S.",
+      "startDate": "Fall 2013",
+      "endDate": "Fall 2016",
       "gpa": "",
       "courses": [
       ]
@@ -85,69 +97,50 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Outrigger Hotels & Resorts",
+      "position": "IT Technician",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "June 2016",
+      "endDate": "September 2018",
+      "summary": "Troubleshooting computer software, hardware, & network problems",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Deploying new networks, virtual servers, & server upgrades",
+        "Writing scripts to increase productivity",
+        "Troubleshooting network problems",
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Tom, Quitiquit, Chee, & Watts",
+      "position": "Assistant Bookeeper",
+      "website": "http://tqlawyers.com"
+      "startDate": "2013-07-27",
+      "endDate": "2015-12-15",
+      "summary": "In addition to assisting with daily and monthly accounting tasks, I helped with various in house IT tasks.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Building their website",
+        "Appying accounting classes to a real world business"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "organization": "American Cancer Society",
+      "position": "Data Entry",
+      "summary": "Helped maintain database",
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+      "organization": "Kapiolani Hospital",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Student Assistant",
+      "summary": "Aided nurses in emergency room",
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "State Champions",
+      "date": "2005",
+      "awarder": "Botball Competition",
+      "summary": "Lead programmer for high school botball team"
     }
   ],
   "references": [
