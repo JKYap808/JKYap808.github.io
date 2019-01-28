@@ -8,7 +8,7 @@ permalink: projects/network-upgrade
 date: 2015-12-15
 labels:
   - Javascript
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: Building a PCI compliant network
 ---
 
 <img class="ui image" src="../images/ratnest.jpg" width="600" height="300">
