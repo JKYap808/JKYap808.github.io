@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cisco.png
+image: images/cisco.jpg
 title: Network Upgrade
 permalink: projects/network-upgrade
 # All dates must be YYYY-MM-DD format!
