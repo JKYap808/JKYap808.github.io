@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://JKYap808.github.io/images/testprofile.PNG",
     "email": "johnyap@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "808-783-1824",
     "website": "https://JKYap808.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
@@ -29,24 +29,24 @@
   },
   "interests": [
     {
-      "name": "machine learning",
+      "name": "Machine Learning",
       "keywords": [
         "Perceptron",
         "Q-learning"
       ]
     },
     {
-      "name": "mathmatics",
+      "name": "Mathmatics",
       "keywords": [
       ]
     },
     {
-      "name": "physics",
+      "name": "Physics",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -99,7 +99,7 @@
     {
       "company": "Outrigger Hotels & Resorts",
       "position": "IT Technician",
-      "website": "",
+      "website": "outrigger.com",
       "startDate": "June 2016",
       "endDate": "September 2018",
       "summary": "Troubleshooting computer software, hardware, & network problems",
