@@ -7,9 +7,6 @@ permalink: projects/network-upgrade
 # All dates must be YYYY-MM-DD format!
 date: 2018-6-14
 labels:
-  - Networking
-  - PCI
-  - Security
 summary: Building a PCI compliant network
 ---
 
