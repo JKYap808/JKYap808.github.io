@@ -20,5 +20,5 @@ The most obvious benefit from using coding standards is the readability of code.
 
 Coding standards also can improve the quality of code.  By following certain coding standards, bad code that is syntactically correct can be avoided.  For examples, declaring all variables at the top of the code prevents them being used before they are declared.  Extra code or errors are pointed out when data is assigned but not used, and I have found that fixing problem as they are pointed out can help guide me to what I need to code next.
 
-In conclusion, coding standard will benefit any software development and should be implemented for any project.  The improved readability and quality leads to better efficiency, which saves time, and time is money.  With the freedom of JavaScript, coding standards are especially important to making sure the code performs well across all browsers by using the best method for certain functions.  
+In conclusion, implementing coding standards will benefit any software development project.  The improved readability and quality leads to better efficiency, which saves time, and time is money.  With the freedom of JavaScript, coding standards are especially important to making sure the code performs well across all browsers by using the best method for certain functions.  
 
