@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Coding Standards
 ---
-<img src="../images/so-icon.png" width="400" height="400">
+<img src="../images/eslint.png" width="500" height="250">
 
 Coding standards are one of the most important tools for software development. With tools like ESlint, implementing coding standards is easier than ever.  The benefits of implementing coding standards might be not as obvious for personal projects, but the benefits are clear for any software development with collaborators.
 
