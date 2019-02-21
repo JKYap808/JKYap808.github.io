@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - UI Frameworks
 ---
-<img src="../images/semantic.png" width="350" height="350">
+<img src="/images/semantic.png" width="350" height="350">
 
 ## Importance of UI
 
