@@ -114,6 +114,19 @@
       ]
     },
     {
+      "company": "Roosevelt Highschool",
+      "position": "IT Technician",
+      "website": "outrigger.com",
+      "startDate": "2016 June",
+      "endDate": "2018 September",
+      "summary": "Troubleshooting computer software, hardware, & network problems",
+      "highlights": [
+        "Lab Monitoring",
+        "Writing scripts to increase productivity",
+        "Troubleshooting/Deploying Computer Hardware"
+      ]
+    },
+    {
       "company": "Tom, Quitiquit, Chee, & Watts",
       "position": "Assistant Bookeeper",
       "website": "http://tqlawyers.com",
