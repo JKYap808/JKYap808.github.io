@@ -26,3 +26,7 @@ I worked on the major functionality of managing the collections and applying for
 The best part of creating this app was gaining experience working on a team.  Learning how to effectively use GitHub to manage our project issues and merge our branches was good experience.  We did stumble a lot over each other. Sometimes multiple people ended up working on the same thing, and our edits would break other people’s code.  I feel like a good team leader would have provided a more coherent vision and focus to the project.  
 
 The most annoying part of developing this app was deploying to galaxy. I learned changing schemas will work locally but when deploying to meteor you are much more likely to get errors with outdated databases or default collections.  We ended up having to present our page without applications working because we didn’t want to reload galaxy right before the presentation even though the bug with applications was fixed.
+
+
+
+You can see my project <a href="https://uhire.github.io/">here</a>.
