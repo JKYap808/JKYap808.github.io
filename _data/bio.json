@@ -142,12 +142,13 @@
   "volunteer": [
     {
       "organization": "American Cancer Society",
+      "website": "https://www.cancer.org/about-us/local/hawaii.html",
       "position": "Data Entry",
       "summary": "Helped maintain database"
     },
     {
       "organization": "Kapiolani Hospital",
-      "website": "http://manoa.hawaii.edu/reis",
+      "website": "https://www.hawaiipacifichealth.org/kapiolani/",
       "position": "Student Assistant",
       "summary": "Aided nurses in emergency room"
     }
