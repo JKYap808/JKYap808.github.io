@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/uhire.png
+image: images/uhire2.png
 title: Network Upgrade
 permalink: projects/uhire
 # All dates must be YYYY-MM-DD format!
