@@ -17,11 +17,11 @@ summary: We built a virtual career fair app.
 
 ## Project
 
-UHire is the app my team designed for our final project for our Software Development class.  The purpose of the app was to be an alternative to job fairs for students and companies.  Students could find companies and available positions that match their interests, and Companies could find interested students.  The concept was similar to the failed local startup HotU.
+UHire is the app my team designed for our final project for our Software Development class.  The purpose of the app was to be an alternative to job fairs for students and companies.  Students could find companies and available positions that match their interests, and Companies could find interested students.  The concept was similar to the failed local startup HotU. The project involved developing UI, managing collections, routing pages, handling different user roles, using the google map API, and developing a way to apply for positions. 
 
 ## Involvment
 
-The project involved developing UI, managing collections, routing pages, handling different user roles, using the google map API, and developing a way to apply for positions.  I ended up working on the major functionality of managing the collections and applying for positions.  Filtering positions by interests, applying for positions, sorting positions, student profile cards, and most schemas were what I spent my time coding.  I managed to work on the majority of the “meat” of the app. The hardest part for me was probably getting the applications to work properly because I didn’t realize that the email function was a server call, so I had to develop a method for the client to call, which is something we didn't do in our previous class work.
+I worked on the major functionality of managing the collections and applying for positions.  Filtering positions by interests, applying for positions, sorting positions, student profile cards, and most schemas were what I spent my time coding.  I managed to work on the majority of the “meat” of the app. The hardest part for me was probably getting the applications to work properly because I didn’t realize that the email function was a server call, so I had to develop a method for the client to call, which is something we didn't do in our previous class work.
 
 The best part of creating this app was gaining experience working on a team.  Learning how to effectively use GitHub to manage our project issues and merge our branches was good experience.  We did stumble a lot over each other. Sometimes multiple people ended up working on the same thing, and our edits would break other people’s code.  I feel like a good team leader would have provided a more coherent vision and focus to the project.  
 
