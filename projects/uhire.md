@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/uhire2.png
-title: Network Upgrade
+title: UHire App
 permalink: projects/uhire
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-07
